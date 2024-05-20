@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\learn-rabbitmq\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\UpstoxTradesProcessor.csproj": {}
+    "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\TradingUtilities\\UpstoxTradesImporter\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\UpstoxTradesProcessor.csproj": {}
   },
   "projects": {
-    "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\learn-rabbitmq\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\UpstoxTradesProcessor.csproj": {
+    "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\TradingUtilities\\UpstoxTradesImporter\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\UpstoxTradesProcessor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\learn-rabbitmq\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\UpstoxTradesProcessor.csproj",
+        "projectUniqueName": "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\TradingUtilities\\UpstoxTradesImporter\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\UpstoxTradesProcessor.csproj",
         "projectName": "UpstoxTradesProcessor",
-        "projectPath": "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\learn-rabbitmq\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\UpstoxTradesProcessor.csproj",
+        "projectPath": "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\TradingUtilities\\UpstoxTradesImporter\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\UpstoxTradesProcessor.csproj",
         "packagesPath": "C:\\Users\\Soft\\.nuget\\packages\\",
-        "outputPath": "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\learn-rabbitmq\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\obj\\",
+        "outputPath": "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\TradingUtilities\\UpstoxTradesImporter\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Soft\\AppData\\Roaming\\NuGet\\NuGet.Config",

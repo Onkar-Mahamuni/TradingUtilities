@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HL9MOJbrWgnftAA29ltvqtPzWOogJxLxLNKGGUpkS8LozhjCs23hWom6lxcMRSg9d+6AON37K/pMBalixIZXsA==",
+  "dgSpecHash": "p01WIwwtlmOPSWyzNAqBLKwfPbDWa9lQvv2qgScqd2CxFdHj6SD2drIkqW+3TPanFDKmIr7QcTMH+tyjW5IZOg==",
   "success": true,
-  "projectFilePath": "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\learn-rabbitmq\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\UpstoxTradesProcessor.csproj",
+  "projectFilePath": "E:\\Work\\WoltersWorkPractice\\GitHub-Repo\\TradingUtilities\\UpstoxTradesImporter\\UpstoxTradesProcessor\\UpstoxTradesProcessor\\UpstoxTradesProcessor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Soft\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Soft\\.nuget\\packages\\epplus\\7.1.2\\epplus.7.1.2.nupkg.sha512",
